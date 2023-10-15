@@ -1,0 +1,29 @@
+.icon-memory {
+  background-image: url('/Users/williamanderson/Desktop/Frontend/results/assets/images/icon-memory.svg');
+  background-size: cover;
+  width: 966px;   /* width of the SVG */
+  height: 945px;  /* height of the SVG */
+}
+
+.icon-reaction {
+  background-image: url('/Users/williamanderson/Desktop/Frontend/results/assets/images/icon-reaction.svg');
+  background-size:contain;
+  background-repeat: no-repeat;
+  text-align: end;
+  width: 20px;   /* width of the SVG */
+  height: 20px;  /* height of the SVG */
+}
+
+.icon-verbal {
+  background-image: url('/Users/williamanderson/Desktop/Frontend/results/assets/images/icon-verbal.svg');
+  background-size: cover;
+  width: 966px;   /* width of the SVG */
+  height: 945px;  /* height of the SVG */
+}
+
+.icon-visual {
+  background-image: url('/Users/williamanderson/Desktop/Frontend/results/assets/images/icon-visual.svg');
+  background-size: cover;
+  width: 966px;   /* width of the SVG */
+  height: 945px;  /* height of the SVG */
+}
