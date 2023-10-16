@@ -27,3 +27,12 @@
   width: 966px;   /* width of the SVG */
   height: 945px;  /* height of the SVG */
 }
+
+@font-face {
+  font-family: 'MyCustomFont';  /* Define a name for the font */
+  src: url('/Users/williamanderson/Desktop/Frontend/results/assets/fonts/HankenGrotesk-VariableFont_wght.ttf') format('truetype');  /* Point to the font file */
+}
+
+.card {
+  font-family: 'MyCustomFont', sans-serif;  /* Use the custom font, with a fallback to sans-serif */
+}
